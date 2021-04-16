@@ -1,4 +1,5 @@
 # Arduino Code for Syringe Pump
+[Return Home](/SyringePumpDemo/index.html)
 It's worth noting that this is code I wrote, and thus differs from the tutorial code in several ways. It allows for microstepping without speed loss through step width modulation, for one, and allows the user to set manual and routine loops easily.
 
 This works for the Uno and Mega. Paste it into the IDE to get started.
