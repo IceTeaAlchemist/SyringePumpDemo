@@ -1,6 +1,6 @@
 # Syringe Pump Assembly and Automation
 
-![Image of full syringe assembly for maximum wow factor.](/SyringePumpDemo/syringepump.jpg)
+![Image of full syringe assembly for maximum wow factor.](/SyringePumpDemo/assets/syringepump.jpg)
 
 See mechanical page [here](/SyringePumpDemo/mechanical.html).
 
